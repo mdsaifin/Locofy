@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* Fonts */
+  --text-desktop-nav-text-b: "IBM Plex Sans";
+
+  /* font sizes */
+  --text-desktop-nav-text-b-size: 14px;
+
+  /* Gaps */
+  --gap-xl: 20px;
+
+  /* Figma Variables */
+
+  /* Color Variables */
+  --color-color-neutral-background-400: #070808;
+
+  /* Number Variables */
+  --spacing-space-12: 12px;
+  --spacing-space-20: 20px;
+  --spacing-space-24: 24px;
+}
